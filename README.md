@@ -4,7 +4,7 @@ This app was bootstrapped with Vue 3, Express and MySQL.
 
 ## Descripción
 
-This app consists of a request from a client or user to make an appointment for your business or organization. When the appointment is accepted, an email is sent to the user.
+This app consists of a request from a client or user to make an appointment for your business or organization. When the appointment is accepted, an email is sent to the user. So this platform can be used in Tutoring, booking apps and so on.
 
 ## Requirement
 
