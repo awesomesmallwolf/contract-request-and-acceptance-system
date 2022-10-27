@@ -1,6 +1,6 @@
 # Contract Request and Acceptance System
 
-This app was bootstrapped with Vue 3, Express and MongoDB.
+This app was bootstrapped with Vue 3, Express and Postgres.
 
 ## Description
 
